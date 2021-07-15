@@ -9,3 +9,4 @@ The purpose of this program is to display cute and positive messages. This will 
 ## Future Potential Features  
 - Improve shuffling of compliments (e.g. keep random shuffling, but reset when user has seen each compliment once to remove duplicates)
 - Add another messsage generator (e.g. add nav bar for different themes)
+- Toggle between different themes/modes (e.g. toggle between "cute" messages vs "angry" messages)
